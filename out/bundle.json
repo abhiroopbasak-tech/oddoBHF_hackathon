@@ -1,0 +1,2430 @@
+{
+  "summary": {
+    "people_count": 922,
+    "edges_count": 6387,
+    "clusters_count": 74,
+    "company_contacts_rows": 1883,
+    "source": "wikidata (+ derived similarity) + company websites (robots-respecting)"
+  },
+  "clusters": {
+    "C0001": {
+      "size": 390,
+      "top_industries": [
+        "Manufacture of wine from grape",
+        "manufacture of leather and related products",
+        "footwear industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Atelier Kaiser Shen",
+        "3PO Architekten",
+        "Orgelbau Rainer Müller",
+        "Secusmart",
+        "Mechanische Baumwollweberei Eningen unter Achalm"
+      ],
+      "sample_members": [
+        "Stefan Maurer",
+        "Paul Brann",
+        "Heinrich Steinmeyer",
+        "Almut Grüntuch-Ernst",
+        "Christian Koch",
+        "Deutsche Krankenhausgesellschaft",
+        "Martin Chaumet",
+        "Felix Hlatky",
+        "Peter Ackermann",
+        "Moses Feist"
+      ]
+    },
+    "C0002": {
+      "size": 222,
+      "top_industries": [
+        "fast-food restaurants",
+        "édition de jeux électroniques",
+        "production de films et de programmes pour la télévision"
+      ],
+      "top_countries": [
+        "France"
+      ],
+      "top_companies": [
+        "Société Gentil et Cie.",
+        "Chicken Spot",
+        "BN Biscuit",
+        "Printemps",
+        "Editions Pix'n Love"
+      ],
+      "sample_members": [
+        "Christophe Sousa",
+        "Sylvie Montegut",
+        "Sidiba Doucouré",
+        "Hector-François Labouche",
+        "Joseph Borne",
+        "Hervé Bleher",
+        "Jules Ouaki",
+        "Sami Ati",
+        "Gael Maignan",
+        "Sebastian Wloch"
+      ]
+    },
+    "C0003": {
+      "size": 82,
+      "top_industries": [
+        "chemical industry",
+        "mining",
+        "semiconductor industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Rosenthal",
+        "Kraul & Wilkening u. Stelling GmbH",
+        "Hutschenreuther",
+        "Drahtnagel- und Metallwarenfabrik Gebrüder Rentrop",
+        "Aktiengesellschaft für chemische Industrie"
+      ],
+      "sample_members": [
+        "Carl Brendgen",
+        "Helmut Schneider",
+        "Nina Bernarding",
+        "Amir Gdamsi",
+        "Burkhard Lohr",
+        "Otto Engelhard",
+        "Mitrofan Belyayev",
+        "Klaus Brackmann",
+        "Frederik Ramm",
+        "Bodo Buschmann"
+      ]
+    },
+    "C0004": {
+      "size": 21,
+      "top_industries": [
+        "retail"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "ATU",
+        "Fielmann",
+        "Peek & Cloppenburg",
+        "Galeries Lafayette",
+        "HEMA"
+      ],
+      "sample_members": [
+        "Eduard Breuninger",
+        "Arthur Isaac",
+        "Heinrich Cloppenburg",
+        "Philippe Palazzi",
+        "Sebastian Betz",
+        "Gerhard Diedrich Wempe",
+        "Rudolph Karstadt",
+        "Virginie Colin",
+        "Leo Meyer",
+        "Théophile Bader"
+      ]
+    },
+    "C0005": {
+      "size": 13,
+      "top_industries": [
+        "automotive industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Augmentation Industries",
+        "Groupe BMW",
+        "Gestigon",
+        "Audi AG",
+        "Audi Formula Racing GmbH"
+      ],
+      "sample_members": [
+        "Adam Baker",
+        "Thomas Schäfer",
+        "Adolph Bleichert",
+        "Adam Wilhelm Lehr",
+        "Franz Josef Popp",
+        "Christian Levin",
+        "Gernot Döllner",
+        "Jos Neuss",
+        "Nikolai Setzer",
+        "Manfred Steinwinter"
+      ]
+    },
+    "C0006": {
+      "size": 12,
+      "top_industries": [
+        "automotive industry"
+      ],
+      "top_countries": [
+        "France"
+      ],
+      "top_companies": [
+        "Delaunay-Belleville",
+        "Delamare-Deboutteville",
+        "Mors",
+        "Michelin",
+        "Delahaye"
+      ],
+      "sample_members": [
+        "Émile Mors",
+        "Émile Delahaye",
+        "Édouard Delamare-Deboutteville",
+        "Louis Mors",
+        "Alexandre Darracq",
+        "Joanny Scotte",
+        "Émile Salmson",
+        "Gaël Lavaud",
+        "Charles Millot",
+        "Robert Delaunay-Belleville"
+      ]
+    },
+    "C0007": {
+      "size": 10,
+      "top_industries": [
+        "software industry"
+      ],
+      "top_countries": [
+        "France",
+        "Germany"
+      ],
+      "top_companies": [
+        "Mistral AI",
+        "proProduktmanagement GmbH",
+        "Braingame Publishing",
+        "BeReal SAS",
+        "Amadeus IT Group"
+      ],
+      "sample_members": [
+        "Air France",
+        "Alexis Barreyat",
+        "Arthur Mensch",
+        "İsmet Koyun",
+        "Timothée Lacroix",
+        "Frank Lemser",
+        "Axel Ruske",
+        "Marco Börries",
+        "José Antonio Tazón",
+        "Denis Burger"
+      ]
+    },
+    "C0008": {
+      "size": 9,
+      "top_industries": [
+        "software development"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "SUSE",
+        "KIS",
+        "DeNA",
+        "KIS Immobilien",
+        "Audisto"
+      ],
+      "sample_members": [
+        "Werner Haas",
+        "Claus Wellenreuther",
+        "Melissa Di Donato",
+        "Isao Moriyasu",
+        "Gerd Riesselmann",
+        "Dieter Kohl",
+        "Tobias Schwarz",
+        "Nils Brauckmann",
+        "Sören Bendig"
+      ]
+    },
+    "C0009": {
+      "size": 9,
+      "top_industries": [
+        "video game industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Infogrames",
+        "Chimera Entertainment",
+        "Astragon",
+        "Titus Interactive",
+        "Piranha Bytes"
+      ],
+      "sample_members": [
+        "Hendrik Lesser",
+        "Eric Caen",
+        "René Bulla",
+        "Hervé Caen",
+        "Nikolai Haidl",
+        "Christophe Sapet",
+        "Alexandre Spinder",
+        "Tom Putzki",
+        "Julia Pfiffer"
+      ]
+    },
+    "C0010": {
+      "size": 7,
+      "top_industries": [
+        "water transport",
+        "international trade"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Reederei Norden-Frisia",
+        "Horn-Linie",
+        "C. Woermann",
+        "Hamburg Süd",
+        "F. Laeisz"
+      ],
+      "sample_members": [
+        "Bernhard Brons",
+        "Ferdinand Laeisz",
+        "Carl Woermann",
+        "Johann Hillern Taaks",
+        "Marc Constantin Fraissinet",
+        "Erich Müller-Stinnes",
+        "Carl Laeisz"
+      ]
+    },
+    "C0011": {
+      "size": 8,
+      "top_industries": [
+        "food industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Tönnies Holding",
+        "Deutsche Frühstücksei",
+        "Lefèvre-Denise",
+        "Huober Brezel",
+        "Olam Group Limited"
+      ],
+      "sample_members": [
+        "Paul Chénereau",
+        "Gert Stuke",
+        "Aloysius Grote",
+        "Sunny Verghese",
+        "Clemens Tönnies",
+        "Emil Huober",
+        "Hermann Bahlsen",
+        "Antoine-Louis Lefèvre"
+      ]
+    },
+    "C0012": {
+      "size": 7,
+      "top_industries": [
+        "textile industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Steilmann",
+        "J. P. Bemberg",
+        "Manufactures Hartmann et Fils",
+        "Hugo Boss",
+        "Souleiado"
+      ],
+      "sample_members": [
+        "Klaus Steilmann",
+        "Daniel Grieder",
+        "Arne Freundt",
+        "Herbert Reichel",
+        "Johann Peter Bemberg",
+        "Charles Demery",
+        "André Hartmann"
+      ]
+    },
+    "C0013": {
+      "size": 7,
+      "top_industries": [
+        "metal industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "ZF Sachs",
+        "Salzgitter Mannesmann",
+        "Fives Group",
+        "Platinschmelze G. Siebert",
+        "Bochumer Verein"
+      ],
+      "sample_members": [
+        "Reinhard Mannesmann",
+        "Jacob Mayer",
+        "Hans Siebert",
+        "Ernst Sachs",
+        "Karl Fichtel",
+        "Jean-François Cail",
+        "Wilhelm Siebert"
+      ]
+    },
+    "C0014": {
+      "size": 6,
+      "top_industries": [
+        "creative industries"
+      ],
+      "top_countries": [
+        "France",
+        "Germany"
+      ],
+      "top_companies": [
+        "La Muse en circuit",
+        "Atelier théâtre de l'École alsacienne",
+        "Papiertheater Nürnberg",
+        "Acétés Company",
+        "Paritito"
+      ],
+      "sample_members": [
+        "Cédric Brossard",
+        "Anaël Guyomarc'h",
+        "Pierre Lamy",
+        "Anne-Marie Storme",
+        "Johannes Volkmann",
+        "Luc Ferrari"
+      ]
+    },
+    "C0015": {
+      "size": 6,
+      "top_industries": [
+        "mechanical engineering"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Opel",
+        "Linde",
+        "Henschel & Sohn",
+        "BOMAG",
+        "Pfaff"
+      ],
+      "sample_members": [
+        "Wolfgang Reitzle",
+        "Lars Brzoska",
+        "Carl Henschel",
+        "Georg Michael Pfaff",
+        "Florian Huettl",
+        "Benno Kaltenegger"
+      ]
+    },
+    "C0016": {
+      "size": 6,
+      "top_industries": [
+        "construction"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Züblin",
+        "Bilfinger SE",
+        "Hochtief",
+        "Julius Berger Tiefbau",
+        "Philipp Holzmann"
+      ],
+      "sample_members": [
+        "Eduard Züblin",
+        "Johann Philipp Holzmann",
+        "Thomas Schulz",
+        "Juan Santamaría Cases",
+        "Conrad Freytag",
+        "Julius Berger"
+      ]
+    },
+    "C0017": {
+      "size": 6,
+      "top_industries": [
+        "information technology"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Allgeier SE",
+        "ZAUBAR",
+        "Professional Wiki",
+        "Hoechst",
+        "Bechtle"
+      ],
+      "sample_members": [
+        "Jeroen De Dauw",
+        "Stefan Marx",
+        "Wilhelm Meister",
+        "Thomas Olemotz",
+        "Anne-Sophie Panzer",
+        "Robert Allgeier"
+      ]
+    },
+    "C0018": {
+      "size": 5,
+      "top_industries": [
+        "industrial manufacturing"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Gerstlauer",
+        "Rational AG",
+        "Gerresheimer",
+        "Heckler & Koch",
+        "Systovi"
+      ],
+      "sample_members": [
+        "Peter Stadelmann",
+        "Pascal Janot",
+        "Hubert Gerstlauer",
+        "Dietmar Siemssen",
+        "Theodor Koch"
+      ]
+    },
+    "C0019": {
+      "size": 5,
+      "top_industries": [
+        "financial service activities, except insurance and pension funding"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Hypothekenbank in Hamburg",
+        "Deutsche Hypothekenbank Meiningen",
+        "Bank für Textilindustrie",
+        "Banque des Pays du Nord",
+        "Crédit national"
+      ],
+      "sample_members": [
+        "Charles Laurent",
+        "Stockholm Independent Bank",
+        "Joseph Blumenstein",
+        "Mitteldeutsche Creditbank",
+        "Otto Hübner"
+      ]
+    },
+    "C0020": {
+      "size": 7,
+      "top_industries": [
+        "aerospace industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Airbus DS Geo",
+        "Mynaric",
+        "Air-Équipement"
+      ],
+      "sample_members": [
+        "Charles Waseige",
+        "Markus Knapek",
+        "Mustafa Veziroğlu",
+        "Philippe Pham",
+        "Joachim Horwath",
+        "Éric Perez",
+        "Dirk Giggenbach"
+      ]
+    },
+    "C0021": {
+      "size": 5,
+      "top_industries": [
+        "insurance"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Gothaer Group",
+        "Deutschnationale Versicherungs-Aktiengesellschaft",
+        "AXA",
+        "Deutsche Rück"
+      ],
+      "sample_members": [
+        "Thomas Buberl",
+        "Ernst Wilhelm Arnoldi",
+        "German National Association of Commercial Employees",
+        "Schleswig-Holsteinische Landesbrandkasse",
+        "Landschaftliche Brandkasse Hannover"
+      ]
+    },
+    "C0022": {
+      "size": 4,
+      "top_industries": [
+        "electrical industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Infineon Technologies",
+        "Voigt & Haeffner",
+        "Garbe, Lahmeyer & Co.",
+        "Schneider Electric"
+      ],
+      "sample_members": [
+        "Peter Herweck",
+        "Jochen Hanebeck",
+        "Heinrich Garbe",
+        "Jakob Staudt"
+      ]
+    },
+    "C0023": {
+      "size": 4,
+      "top_industries": [
+        "financial services"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Deutsche Börse",
+        "Stoic Money",
+        "Euronext",
+        "Hannover Rück SE"
+      ],
+      "sample_members": [
+        "Vittorio Rigato",
+        "Euronext Brussels",
+        "Jean-Jacques Henchoz",
+        "Stephan Leithner"
+      ]
+    },
+    "C0024": {
+      "size": 4,
+      "top_industries": [
+        "engineering, technical studies"
+      ],
+      "top_countries": [
+        "France"
+      ],
+      "top_companies": [
+        "bañulsdesign",
+        "Biotope",
+        "Q116345636"
+      ],
+      "sample_members": [
+        "Michel Geniez",
+        "Thomas Menut",
+        "Renaud Bañuls",
+        "Tony Bonifaci"
+      ]
+    },
+    "C0025": {
+      "size": 3,
+      "top_industries": [
+        "pharmaceutical industry"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Statitec",
+        "Boehringer Mannheim GmbH",
+        "Sartorius AG"
+      ],
+      "sample_members": [
+        "Christian Friedrich Boehringer",
+        "Christine Cotton",
+        "Joachim Kreuzburg"
+      ]
+    },
+    "C0026": {
+      "size": 3,
+      "top_industries": [
+        "clothing industry"
+      ],
+      "top_countries": [
+        "France",
+        "Germany"
+      ],
+      "top_companies": [
+        "Le-go Bekleidungswerke GmbH & Co KG",
+        "AMI",
+        "Maison Bernard Zins"
+      ],
+      "sample_members": [
+        "Leon Gonczarowski",
+        "Bernard Zins",
+        "Alexandre Mattiussi"
+      ]
+    },
+    "C0027": {
+      "size": 3,
+      "top_industries": [
+        "animation"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Dingo Pictures",
+        "Folimage"
+      ],
+      "sample_members": [
+        "Jacques-Rémy Girerd",
+        "Ludwig Ickert",
+        "Roswitha Haas"
+      ]
+    },
+    "C0028": {
+      "size": 2,
+      "top_industries": [
+        "aviation"
+      ],
+      "top_countries": [
+        "Germany",
+        "France"
+      ],
+      "top_companies": [
+        "Société Astra",
+        "Compagnie générale transaérienne",
+        "MTU Aero Engines"
+      ],
+      "sample_members": [
+        "Lars Wagner",
+        "Henri Deutsch de la Meurthe"
+      ]
+    },
+    "C0029": {
+      "size": 2,
+      "top_industries": [
+        "automotive supplier"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Webasto SE",
+        "Hella"
+      ],
+      "sample_members": [
+        "Walter Baier",
+        "Bernard Schäferbarthold"
+      ]
+    },
+    "C0030": {
+      "size": 2,
+      "top_industries": [
+        "media industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "ContentView GmbH",
+        "Kouneli Media"
+      ],
+      "sample_members": [
+        "Sebastian Kluge",
+        "Myriam Karsch"
+      ]
+    },
+    "C0031": {
+      "size": 2,
+      "top_industries": [
+        "horticulture"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Wiesmoor-Gärtnerei",
+        "Emsflower"
+      ],
+      "sample_members": [
+        "Uwe Quitmeyer",
+        "Bennie Kuipers"
+      ]
+    },
+    "C0032": {
+      "size": 2,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Ackermann & Raff",
+        "a+r Architekten"
+      ],
+      "sample_members": [
+        "Gerd Ackermann",
+        "Hellmut Raff"
+      ]
+    },
+    "C0033": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Richter",
+        "Ankerwerk"
+      ],
+      "sample_members": [
+        "Friedrich Adolf Richter"
+      ]
+    },
+    "C0034": {
+      "size": 1,
+      "top_industries": [
+        "Other transportation support activities"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Meierei Bolle",
+        "Norddeutsche Eiswerke"
+      ],
+      "sample_members": [
+        "Carl Bolle"
+      ]
+    },
+    "C0035": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Envision Entertainment",
+        "EA Phenomic"
+      ],
+      "sample_members": [
+        "Volker Wertich"
+      ]
+    },
+    "C0036": {
+      "size": 2,
+      "top_industries": [
+        "event sector"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "KALUZA + SCHMID"
+      ],
+      "sample_members": [
+        "Steffen Kaluza",
+        "Martin Schmid"
+      ]
+    },
+    "C0037": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Schongerfilm",
+        "Naturfilm Hubert Schonger"
+      ],
+      "sample_members": [
+        "Hubert Schonger"
+      ]
+    },
+    "C0038": {
+      "size": 1,
+      "top_industries": [
+        "health club"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "RSG Group",
+        "McFit"
+      ],
+      "sample_members": [
+        "Rainer Schaller"
+      ]
+    },
+    "C0039": {
+      "size": 2,
+      "top_industries": [
+        "social networking service"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Spickmich"
+      ],
+      "sample_members": [
+        "Tino Keller",
+        "Philipp Weidenhiller"
+      ]
+    },
+    "C0040": {
+      "size": 1,
+      "top_industries": [
+        "e-health"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "apo.com Group Holding GmbH",
+        "apodiscounter"
+      ],
+      "sample_members": [
+        "Oliver Scheel"
+      ]
+    },
+    "C0041": {
+      "size": 2,
+      "top_industries": [
+        "petroleum industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "German-American Petroleum Company"
+      ],
+      "sample_members": [
+        "Wilhelm Anton Riedemann",
+        "Carl Schütte"
+      ]
+    },
+    "C0042": {
+      "size": 1,
+      "top_industries": [
+        "IT service"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "KDO Service GmbH",
+        "KDO eG"
+      ],
+      "sample_members": [
+        "Rolf Beyer"
+      ]
+    },
+    "C0043": {
+      "size": 2,
+      "top_industries": [
+        "artificial intelligence"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "BrandUp Factory GmbH"
+      ],
+      "sample_members": [
+        "Tim Meyer",
+        "Ulf Meyer"
+      ]
+    },
+    "C0044": {
+      "size": 2,
+      "top_industries": [
+        "educational system"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Bertelsmann"
+      ],
+      "sample_members": [
+        "Carl Bertelsmann",
+        "Thomas Rabe"
+      ]
+    },
+    "C0045": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Fein"
+      ],
+      "sample_members": [
+        "Wilhelm Emil Fein"
+      ]
+    },
+    "C0046": {
+      "size": 1,
+      "top_industries": [
+        "auto body"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Traugott Golde AG"
+      ],
+      "sample_members": [
+        "Traugott Golde"
+      ]
+    },
+    "C0047": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Bünte & Remmler"
+      ],
+      "sample_members": [
+        "Victor Bünte"
+      ]
+    },
+    "C0048": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Videogalerie Gerry Schum"
+      ],
+      "sample_members": [
+        "Ursula Wevers"
+      ]
+    },
+    "C0049": {
+      "size": 1,
+      "top_industries": [
+        "broadcasting"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Westdeutscher Rundfunk"
+      ],
+      "sample_members": [
+        "Tom Buhrow"
+      ]
+    },
+    "C0050": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Gerkan, Marg and Partners"
+      ],
+      "sample_members": [
+        "Volkwin Marg"
+      ]
+    },
+    "C0051": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "AMALYTIX"
+      ],
+      "sample_members": [
+        "Trutz Fries"
+      ]
+    },
+    "C0052": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Erdmann & Rossi"
+      ],
+      "sample_members": [
+        "Willy Erdmann"
+      ]
+    },
+    "C0053": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Hannover Concerts"
+      ],
+      "sample_members": [
+        "Wolfgang Besemer"
+      ]
+    },
+    "C0054": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "ESCAL Software GmbH"
+      ],
+      "sample_members": [
+        "Volker Eloesser"
+      ]
+    },
+    "C0055": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "ArtPark Tegel"
+      ],
+      "sample_members": [
+        "Urban Nation"
+      ]
+    },
+    "C0056": {
+      "size": 1,
+      "top_industries": [
+        "wind power"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Siemens Gamesa"
+      ],
+      "sample_members": [
+        "Torben Bang"
+      ]
+    },
+    "C0057": {
+      "size": 1,
+      "top_industries": [
+        "mail"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Deutsche Post AG"
+      ],
+      "sample_members": [
+        "Tobias Meyer"
+      ]
+    },
+    "C0058": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Mediengruppe Klambt"
+      ],
+      "sample_members": [
+        "Wilhelm Wenzel Klambt"
+      ]
+    },
+    "C0059": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Schlosshotel Kronberg"
+      ],
+      "sample_members": [
+        "Victoria, Princess Royal"
+      ]
+    },
+    "C0060": {
+      "size": 1,
+      "top_industries": [
+        "printed matter"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Kanzlit"
+      ],
+      "sample_members": [
+        "Uwe-Hans Timm"
+      ]
+    },
+    "C0061": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Viessmann"
+      ],
+      "sample_members": [
+        "Wieland Viessmann"
+      ]
+    },
+    "C0062": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Orion"
+      ],
+      "sample_members": [
+        "Werner Susemichel"
+      ]
+    },
+    "C0063": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Antiquariat Sander"
+      ],
+      "sample_members": [
+        "Torsten Sander"
+      ]
+    },
+    "C0064": {
+      "size": 1,
+      "top_industries": [
+        "consulting"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Interlead GmbH"
+      ],
+      "sample_members": [
+        "Valentin Drießen"
+      ]
+    },
+    "C0065": {
+      "size": 1,
+      "top_industries": [
+        "fashion"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Dittmer & Schwitters"
+      ],
+      "sample_members": [
+        "Eduard Dittmer"
+      ]
+    },
+    "C0066": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Minox"
+      ],
+      "sample_members": [
+        "Walter Zapp"
+      ]
+    },
+    "C0067": {
+      "size": 1,
+      "top_industries": [
+        "optics industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "LASEROPTIK GmbH"
+      ],
+      "sample_members": [
+        "Wolfgang Ebert"
+      ]
+    },
+    "C0068": {
+      "size": 1,
+      "top_industries": [
+        "tour operator"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "TUI Cruises"
+      ],
+      "sample_members": [
+        "Wybcke Meier"
+      ]
+    },
+    "C0069": {
+      "size": 1,
+      "top_industries": [
+        "business and other management consultancy activities"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Metaplan"
+      ],
+      "sample_members": [
+        "Eberhard Schnelle"
+      ]
+    },
+    "C0070": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Watergate"
+      ],
+      "sample_members": [
+        "Ulrich Wombacher"
+      ]
+    },
+    "C0071": {
+      "size": 1,
+      "top_industries": [
+        "ropewalk"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Draht- und Hanfseilfabrik Reutlinger"
+      ],
+      "sample_members": [
+        "Wilhelm Reutlinger"
+      ]
+    },
+    "C0072": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "IWS"
+      ],
+      "sample_members": [
+        "Tilo Sahlbach"
+      ]
+    },
+    "C0073": {
+      "size": 1,
+      "top_industries": [
+        "pulp and paper industry"
+      ],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "E. Holtzmann & Cie."
+      ],
+      "sample_members": [
+        "Eugen Holtzmann"
+      ]
+    },
+    "C0074": {
+      "size": 1,
+      "top_industries": [],
+      "top_countries": [
+        "Germany"
+      ],
+      "top_companies": [
+        "Theater Drehleier"
+      ],
+      "sample_members": [
+        "Werner Winkler"
+      ]
+    }
+  },
+  "people_sample": [
+    {
+      "person_name": "Yves Padrines",
+      "role": "CEO",
+      "company": "Nemetschek SE",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100287880",
+      "wikidata_company": "http://www.wikidata.org/entity/Q666476",
+      "person_website": "",
+      "company_website": "http://www.nemetschek.com",
+      "linkedin_profile": "https://www.linkedin.com/in/yves-padrines",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Yves+Padrines+Nemetschek+SE",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "contact@nemetschek.com",
+      "best_contact_url": "http://www.nemetschek.com/en/contact",
+      "best_contact_type": "contact"
+    },
+    {
+      "person_name": "Julius Heinrich Zimmermann",
+      "role": "Founder",
+      "company": "Zimmermann",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100432",
+      "wikidata_company": "http://www.wikidata.org/entity/Q203704",
+      "person_website": "",
+      "company_website": "https://www.musikverlag-zimmermann.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Julius+Heinrich+Zimmermann+Zimmermann",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Bund Freier evangelischer Gemeinden in Deutschland",
+      "role": "Founder",
+      "company": "Spar- und Kreditbank des Bundes Freier evangelischer Gemeinden",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1005088",
+      "wikidata_company": "http://www.wikidata.org/entity/Q1589571",
+      "person_website": "https://www.feg.de/",
+      "company_website": "https://www.skbwitten.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Bund+Freier+evangelischer+Gemeinden+in+Deutschland+Spar-+und+Kreditbank+des+Bundes+Freier+evangelischer+Gemeinden",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@skbwitten.de",
+      "best_contact_url": "https://www.skbwitten.de/impressum.html",
+      "best_contact_type": "press"
+    },
+    {
+      "person_name": "Gabriel Wohlgemuth",
+      "role": "Founder",
+      "company": "Bbg Berliner Baugenossenschaft",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100523306",
+      "wikidata_company": "http://www.wikidata.org/entity/Q812774",
+      "person_website": "",
+      "company_website": "https://bbg-eg.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Gabriel+Wohlgemuth+Bbg+Berliner+Baugenossenschaft",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "kerstin.kirsch@bbg-eg.de",
+      "best_contact_url": "https://bbg-eg.de/kontakt/verwaltung/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Hermann Berthold",
+      "role": "Founder",
+      "company": "Berthold Type Foundry",
+      "company_country": "Germany",
+      "industry": "foundry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100623",
+      "wikidata_company": "http://www.wikidata.org/entity/Q318732",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Hermann+Berthold+Berthold+Type+Foundry",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Guido Henkel",
+      "role": "Founder",
+      "company": "Dragonware",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100713",
+      "wikidata_company": "http://www.wikidata.org/entity/Q123019764",
+      "person_website": "https://guidohenkel.com/",
+      "company_website": "",
+      "linkedin_profile": "https://www.linkedin.com/in/guidohenkel",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Guido+Henkel+Dragonware",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Bernhard Christoph Breitkopf",
+      "role": "Founder",
+      "company": "Breitkopf & Härtel",
+      "company_country": "Germany",
+      "industry": "music industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100748",
+      "wikidata_company": "http://www.wikidata.org/entity/Q634246",
+      "person_website": "",
+      "company_website": "http://www.breitkopf.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Bernhard+Christoph+Breitkopf+Breitkopf+%26+H%C3%A4rtel",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "jobs@breitkopf.de",
+      "best_contact_url": "http://www.breitkopf.com/news/2024/jobs",
+      "best_contact_type": "careers"
+    },
+    {
+      "person_name": "Carl Henschel",
+      "role": "Founder",
+      "company": "Henschel & Sohn",
+      "company_country": "Germany",
+      "industry": "mechanical engineering",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100771",
+      "wikidata_company": "http://www.wikidata.org/entity/Q163580",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Henschel+Henschel+%26+Sohn",
+      "sources": "wikidata",
+      "cluster_id": "C0015",
+      "cluster_reason": "Shared group: industries=mechanical engineering; countries=Germany; companies=Opel, Linde",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Gerald Hüther",
+      "role": "Founder",
+      "company": "Academy for the Development of Human Potentials",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100836",
+      "wikidata_company": "http://www.wikidata.org/entity/Q116140772",
+      "person_website": "https://www.gerald-huether.de/",
+      "company_website": "https://akademiefuerpotentialentfaltung.org",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/akademie-potentialentfaltung",
+      "info_link": "https://www.google.com/search?q=Gerald+H%C3%BCther+Academy+for+the+Development+of+Human+Potentials",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "https://akademiefuerpotentialentfaltung.org/impressum/",
+      "best_contact_type": "press"
+    },
+    {
+      "person_name": "Siegfried Rundel",
+      "role": "Founder",
+      "company": "Musikverlag RUNDEL GmbH",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100890",
+      "wikidata_company": "http://www.wikidata.org/entity/Q64223675",
+      "person_website": "",
+      "company_website": "https://www.rundel.de",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Siegfried+Rundel+Musikverlag+RUNDEL+GmbH",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@rundel.de",
+      "best_contact_url": "https://www.rundel.de/de/mediathek/c-6",
+      "best_contact_type": "press"
+    },
+    {
+      "person_name": "Georg Nothelfer",
+      "role": "Founder",
+      "company": "Galerie Georg Nothelfer",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100909352",
+      "wikidata_company": "http://www.wikidata.org/entity/Q1491915",
+      "person_website": "",
+      "company_website": "https://www.galerie-nothelfer.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Georg+Nothelfer+Galerie+Georg+Nothelfer",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Reinhard Schneider",
+      "role": "CEO",
+      "company": "Werner & Mertz",
+      "company_country": "Germany",
+      "industry": "chemical industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100936937",
+      "wikidata_company": "http://www.wikidata.org/entity/Q872833",
+      "person_website": "https://werner-mertz.de",
+      "company_website": "https://www.werner-mertz.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Reinhard+Schneider+Werner+%26+Mertz",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Benedikt Schulz",
+      "role": "Founder",
+      "company": "Schulz & Schulz Architekten",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100979872",
+      "wikidata_company": "http://www.wikidata.org/entity/Q2251737",
+      "person_website": "",
+      "company_website": "http://schulz-und-schulz.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Benedikt+Schulz+Schulz+%26+Schulz+Architekten",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "https://schulz-und-schulz.com/projekte/polizeirevier-chemnitz-sud/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Thomas Schäfer",
+      "role": "CEO",
+      "company": "Volkswagen",
+      "company_country": "Germany",
+      "industry": "automotive industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100989426",
+      "wikidata_company": "http://www.wikidata.org/entity/Q246",
+      "person_website": "",
+      "company_website": "https://www.vw.com/en.html",
+      "linkedin_profile": "https://www.linkedin.com/in/thomas-schaefer-61b446138",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Thomas+Sch%C3%A4fer+Volkswagen",
+      "sources": "wikidata",
+      "cluster_id": "C0005",
+      "cluster_reason": "Shared group: industries=automotive industry; countries=Germany; companies=Augmentation Industries, Groupe BMW",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Michael Weber",
+      "role": "Founder",
+      "company": "Schramm Film Koerner & Weber",
+      "company_country": "Germany",
+      "industry": "television",
+      "wikidata_person": "http://www.wikidata.org/entity/Q100997646",
+      "wikidata_company": "http://www.wikidata.org/entity/Q55344655",
+      "person_website": "",
+      "company_website": "http://www.schrammfilm.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Michael+Weber+Schramm+Film+Koerner+%26+Weber",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Günther Fielmann",
+      "role": "Founder",
+      "company": "Fielmann",
+      "company_country": "Germany",
+      "industry": "retail",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101055",
+      "wikidata_company": "http://www.wikidata.org/entity/Q457822",
+      "person_website": "",
+      "company_website": "https://www.fielmann.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/fielmann-ag",
+      "info_link": "https://www.google.com/search?q=G%C3%BCnther+Fielmann+Fielmann",
+      "sources": "wikidata",
+      "cluster_id": "C0004",
+      "cluster_reason": "Shared group: industries=retail; countries=Germany, France; companies=ATU, Fielmann",
+      "cluster_label": "",
+      "best_contact_email": "bildschirmarbeitsbrille@fielmann.com",
+      "best_contact_url": "https://www.fielmann.de/firmenkunden/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Friedrich Adolf Richter",
+      "role": "Founder",
+      "company": "Richter | Ankerwerk",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101176",
+      "wikidata_company": "http://www.wikidata.org/entity/Q15941401",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Friedrich+Adolf+Richter+Richter",
+      "sources": "wikidata",
+      "cluster_id": "C0033",
+      "cluster_reason": "Shared group: industries=; countries=Germany; companies=Richter, Ankerwerk",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Franky Mulliez",
+      "role": "Founder",
+      "company": "Kiloutou",
+      "company_country": "France",
+      "industry": "location et location-bail d'autres biens personnels et domestiques",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101252333",
+      "wikidata_company": "http://www.wikidata.org/entity/Q3196672",
+      "person_website": "",
+      "company_website": "https://www.kiloutou.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/kiloutou",
+      "info_link": "https://www.google.com/search?q=Franky+Mulliez+Kiloutou",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Jacob Mayer",
+      "role": "Founder",
+      "company": "Bochumer Verein",
+      "company_country": "Germany",
+      "industry": "metal industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101277",
+      "wikidata_company": "http://www.wikidata.org/entity/Q889107",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Jacob+Mayer+Bochumer+Verein",
+      "sources": "wikidata",
+      "cluster_id": "C0013",
+      "cluster_reason": "Shared group: industries=metal industry; countries=Germany, France; companies=ZF Sachs, Salzgitter Mannesmann",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Florian Reinaud",
+      "role": "Founder",
+      "company": "Concilio",
+      "company_country": "France",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101437824",
+      "wikidata_company": "http://www.wikidata.org/entity/Q101437878",
+      "person_website": "",
+      "company_website": "https://www.concilio.com",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Florian+Reinaud+Concilio",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "contact@concilio.com",
+      "best_contact_url": "https://www.concilio.com/chirurgie-plastique",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Theodor Koch",
+      "role": "Founder",
+      "company": "Heckler & Koch",
+      "company_country": "Germany",
+      "industry": "industrial manufacturing",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101652",
+      "wikidata_company": "http://www.wikidata.org/entity/Q152815",
+      "person_website": "",
+      "company_website": "https://hk-usa.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Theodor+Koch+Heckler+%26+Koch",
+      "sources": "wikidata",
+      "cluster_id": "C0018",
+      "cluster_reason": "Shared group: industries=industrial manufacturing; countries=Germany, France; companies=Gerstlauer, Rational AG",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "https://hk-usa.com/wp-content/uploads/elementor/google-fonts/css/saira.css?ver=1753813907",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Pierre Corneille",
+      "role": "Founder",
+      "company": "Théâtre populaire de la Mothe-Saint-Héray",
+      "company_country": "France",
+      "industry": "creative industries",
+      "wikidata_person": "http://www.wikidata.org/entity/Q101804618",
+      "wikidata_company": "http://www.wikidata.org/entity/Q101803159",
+      "person_website": "",
+      "company_website": "http://www.la-mothe-saint-heray.fr/index.php/decouvrir/sites-remarquables/9-decouvrir/52-le-parc-munucipal",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Pierre+Corneille+Th%C3%A9%C3%A2tre+populaire+de+la+Mothe-Saint-H%C3%A9ray",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Christophe Sousa",
+      "role": "Founder",
+      "company": "Dooweet",
+      "company_country": "France",
+      "industry": "advertising agency activities",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102231121",
+      "wikidata_company": "http://www.wikidata.org/entity/Q102226212",
+      "person_website": "",
+      "company_website": "https://dooweet.org/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Christophe+Sousa+Dooweet",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Hermann Noack",
+      "role": "Founder",
+      "company": "Hermann Noack Hofphotograph",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102280933",
+      "wikidata_company": "http://www.wikidata.org/entity/Q114678673",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Hermann+Noack+Hermann+Noack+Hofphotograph",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Georges Costallat",
+      "role": "Founder",
+      "company": "Costallat",
+      "company_country": "France",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102316737",
+      "wikidata_company": "http://www.wikidata.org/entity/Q108146432",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Georges+Costallat+Costallat",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Stephan Kaufmann",
+      "role": "CEO",
+      "company": "Augmentation Industries",
+      "company_country": "Germany",
+      "industry": "automotive industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102335153",
+      "wikidata_company": "http://www.wikidata.org/entity/Q16949389",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Stephan+Kaufmann+Augmentation+Industries",
+      "sources": "wikidata",
+      "cluster_id": "C0005",
+      "cluster_reason": "Shared group: industries=automotive industry; countries=Germany; companies=Augmentation Industries, Groupe BMW",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Friedrich Grillo",
+      "role": "Founder",
+      "company": "Gelsenkirchener Bergwerks-AG | Aktiengesellschaft für chemische Industrie",
+      "company_country": "Germany",
+      "industry": "mining",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102367",
+      "wikidata_company": "http://www.wikidata.org/entity/Q1499819",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Friedrich+Grillo+Gelsenkirchener+Bergwerks-AG",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Jarosław Kutyłowski",
+      "role": "Founder",
+      "company": "Q131894787",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102406485",
+      "wikidata_company": "http://www.wikidata.org/entity/Q131894787",
+      "person_website": "",
+      "company_website": "http://www.deepl.com",
+      "linkedin_profile": "https://www.linkedin.com/in/jarekkut",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Jaros%C5%82aw+Kuty%C5%82owski+Q131894787",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "support@DeepL.com",
+      "best_contact_url": "https://www.deepl.com/en/firefox-extension",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Tim Reichert",
+      "role": "Founder",
+      "company": "SK Gaming",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102482",
+      "wikidata_company": "http://www.wikidata.org/entity/Q1358792",
+      "person_website": "http://timreichert.net/",
+      "company_website": "http://www.sk-gaming.com",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Tim+Reichert+SK+Gaming",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@sk-gaming.com",
+      "best_contact_url": "https://www.sk-gaming.com/contact",
+      "best_contact_type": "contact"
+    },
+    {
+      "person_name": "Ewald Schoeller",
+      "role": "Founder",
+      "company": "Alesco",
+      "company_country": "Germany",
+      "industry": "product packaging industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102512494",
+      "wikidata_company": "http://www.wikidata.org/entity/Q2641022",
+      "person_website": "",
+      "company_website": "http://www.alesco.net",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Ewald+Schoeller+Alesco",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@alesco.net",
+      "best_contact_url": "http://www.alesco.net/de/aktuelles/details/aachener-firmenlauf-2025",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Hermann Blohm",
+      "role": "Founder",
+      "company": "Blohm+Voss",
+      "company_country": "Germany",
+      "industry": "shipbuilding",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102536",
+      "wikidata_company": "http://www.wikidata.org/entity/Q218715",
+      "person_website": "",
+      "company_website": "https://nvl.de/en/shipyards-and-docks/blohmvoss",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Hermann+Blohm+Blohm%2BVoss",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "info@poolone.de",
+      "best_contact_url": "https://nvl.de/en/media",
+      "best_contact_type": "press"
+    },
+    {
+      "person_name": "Adolph Bleichert",
+      "role": "Founder",
+      "company": "Adolf Bleichert & Co.",
+      "company_country": "Germany",
+      "industry": "automotive industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q102718",
+      "wikidata_company": "http://www.wikidata.org/entity/Q328885",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Adolph+Bleichert+Adolf+Bleichert+%26+Co.",
+      "sources": "wikidata",
+      "cluster_id": "C0005",
+      "cluster_reason": "Shared group: industries=automotive industry; countries=Germany; companies=Augmentation Industries, Groupe BMW",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Carl Miele",
+      "role": "Founder",
+      "company": "Miele",
+      "company_country": "Germany",
+      "industry": "home appliance industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103231",
+      "wikidata_company": "http://www.wikidata.org/entity/Q695230",
+      "person_website": "https://www.miele.pl/",
+      "company_website": "https://www.miele.com",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Miele+Miele",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "sales@miele.com.au",
+      "best_contact_url": "https://www.miele.com/en/com/contact-us-2073.htm",
+      "best_contact_type": "sales_partnership"
+    },
+    {
+      "person_name": "Paul Smaczny",
+      "role": "Founder",
+      "company": "Accentus Music",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q10346303",
+      "wikidata_company": "http://www.wikidata.org/entity/Q85739571",
+      "person_website": "",
+      "company_website": "http://accentus.com",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Paul+Smaczny+Accentus+Music",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@accentus.com",
+      "best_contact_url": "https://accentus.com/happy-birthday-herbert-blomstedt/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Adolf Jandorf",
+      "role": "Founder",
+      "company": "A. Jandorf & Co.",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103492",
+      "wikidata_company": "http://www.wikidata.org/entity/Q62579826",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Adolf+Jandorf+A.+Jandorf+%26+Co.",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Rodolfo Crespi",
+      "role": "Founder",
+      "company": "Q64520835",
+      "company_country": "France",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q10363692",
+      "wikidata_company": "http://www.wikidata.org/entity/Q64520835",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Rodolfo+Crespi+Q64520835",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Carl Bolle",
+      "role": "Founder",
+      "company": "Norddeutsche Eiswerke | Meierei Bolle",
+      "company_country": "Germany",
+      "industry": "Other transportation support activities",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1036751",
+      "wikidata_company": "http://www.wikidata.org/entity/Q107140464",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Bolle+Norddeutsche+Eiswerke",
+      "sources": "wikidata",
+      "cluster_id": "C0034",
+      "cluster_reason": "Shared group: industries=Other transportation support activities; countries=Germany; companies=Meierei Bolle, Norddeutsche Eiswerke",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Carl Bertelsmann",
+      "role": "Founder",
+      "company": "Bertelsmann",
+      "company_country": "Germany",
+      "industry": "educational system",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1037050",
+      "wikidata_company": "http://www.wikidata.org/entity/Q156913",
+      "person_website": "",
+      "company_website": "https://www.bertelsmann.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/bertelsmann",
+      "info_link": "https://www.google.com/search?q=Carl+Bertelsmann+Bertelsmann",
+      "sources": "wikidata",
+      "cluster_id": "C0044",
+      "cluster_reason": "Shared group: industries=educational system; countries=Germany; companies=Bertelsmann",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "https://www.bertelsmann.com/investor-relations/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Carl Brendgen",
+      "role": "Founder",
+      "company": "Hubertus Braunkohlen-Aktiengesellschaft",
+      "company_country": "Germany",
+      "industry": "mining",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1037146",
+      "wikidata_company": "http://www.wikidata.org/entity/Q68557515",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Brendgen+Hubertus+Braunkohlen-Aktiengesellschaft",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Volker Wertich",
+      "role": "Founder",
+      "company": "Envision Entertainment | EA Phenomic",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103787",
+      "wikidata_company": "http://www.wikidata.org/entity/Q124285064",
+      "person_website": "",
+      "company_website": "https://www.envision-entertainment.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/envision-entertainment-gmbh",
+      "info_link": "https://www.google.com/search?q=Volker+Wertich+Envision+Entertainment",
+      "sources": "wikidata",
+      "cluster_id": "C0035",
+      "cluster_reason": "Shared group: industries=; countries=Germany; companies=Envision Entertainment, EA Phenomic",
+      "cluster_label": "",
+      "best_contact_email": "info@envision-entertainment.de",
+      "best_contact_url": "https://www.envision-entertainment.de/contact",
+      "best_contact_type": "contact"
+    },
+    {
+      "person_name": "Wilhelm Meister",
+      "role": "Founder",
+      "company": "Hoechst",
+      "company_country": "Germany",
+      "industry": "information technology",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1038111",
+      "wikidata_company": "http://www.wikidata.org/entity/Q542511",
+      "person_website": "",
+      "company_website": "http://www.hoechst.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Wilhelm+Meister+Hoechst",
+      "sources": "wikidata",
+      "cluster_id": "C0017",
+      "cluster_reason": "Shared group: industries=information technology; countries=Germany; companies=Allgeier SE, ZAUBAR",
+      "cluster_label": "",
+      "best_contact_email": "kontakt@hoechst.de",
+      "best_contact_url": "http://www.hoechst.de/",
+      "best_contact_type": "contact"
+    },
+    {
+      "person_name": "Frank Delmas",
+      "role": "Founder",
+      "company": "Delmas",
+      "company_country": "France",
+      "industry": "transport",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103820135",
+      "wikidata_company": "http://www.wikidata.org/entity/Q1184506",
+      "person_website": "",
+      "company_website": "http://www.delmas.com/default.asp",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Frank+Delmas+Delmas",
+      "sources": "wikidata",
+      "cluster_id": "C0002",
+      "cluster_reason": "Shared group: industries=fast-food restaurants, édition de jeux électroniques; countries=France; companies=Société Gentil et Cie., Chicken Spot",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Melissa Di Donato",
+      "role": "CEO",
+      "company": "SUSE",
+      "company_country": "Germany",
+      "industry": "software development",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103824349",
+      "wikidata_company": "http://www.wikidata.org/entity/Q14594782",
+      "person_website": "https://www.kyriba.com/company/about-kyriba/melissa-di-donato/",
+      "company_website": "https://www.suse.com/",
+      "linkedin_profile": "https://www.linkedin.com/in/melissad2",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Melissa+Di+Donato+SUSE",
+      "sources": "wikidata",
+      "cluster_id": "C0008",
+      "cluster_reason": "Shared group: industries=software development; countries=Germany, France; companies=SUSE, KIS",
+      "cluster_label": "",
+      "best_contact_email": "sales-inquiries-apac@suse.com",
+      "best_contact_url": "https://www.suse.com/contact/",
+      "best_contact_type": "investor_relations"
+    },
+    {
+      "person_name": "Carl Heinrich Florenz Müller",
+      "role": "Founder",
+      "company": "Valvo",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1038658",
+      "wikidata_company": "http://www.wikidata.org/entity/Q2509637",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Heinrich+Florenz+M%C3%BCller+Valvo",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Carl Johann Freudenberg",
+      "role": "Founder",
+      "company": "Freudenberg",
+      "company_country": "Germany",
+      "industry": "",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1039036",
+      "wikidata_company": "http://www.wikidata.org/entity/Q2498443",
+      "person_website": "",
+      "company_website": "http://www.freudenberg.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Johann+Freudenberg+Freudenberg",
+      "sources": "wikidata",
+      "cluster_id": "C0001",
+      "cluster_reason": "Shared group: industries=Manufacture of wine from grape, manufacture of leather and related products; countries=Germany; companies=Atelier Kaiser Shen, 3PO Architekten",
+      "cluster_label": "",
+      "best_contact_email": "info@freudenberg.com",
+      "best_contact_url": "http://www.freudenberg.com/en/legal-notice",
+      "best_contact_type": "legal"
+    },
+    {
+      "person_name": "Carl Julius Winter",
+      "role": "Founder",
+      "company": "Wintershall Dea",
+      "company_country": "Germany",
+      "industry": "mining",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1039127",
+      "wikidata_company": "http://www.wikidata.org/entity/Q567050",
+      "person_website": "",
+      "company_website": "",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Julius+Winter+Wintershall+Dea",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Anne-Marie Storme",
+      "role": "Founder",
+      "company": "Le théâtre de l’instant",
+      "company_country": "France",
+      "industry": "creative industries",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103931691",
+      "wikidata_company": "http://www.wikidata.org/entity/Q103932270",
+      "person_website": "",
+      "company_website": "http://www.theatredelinstant.fr",
+      "linkedin_profile": "https://www.linkedin.com/in/anne-marie-storme-78a5a160",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Anne-Marie+Storme+Le+th%C3%A9%C3%A2tre+de+l%E2%80%99instant",
+      "sources": "wikidata",
+      "cluster_id": "C0014",
+      "cluster_reason": "Shared group: industries=creative industries; countries=France, Germany; companies=La Muse en circuit, Atelier théâtre de l'École alsacienne",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Carl Laeisz",
+      "role": "Founder",
+      "company": "Hamburg Süd",
+      "company_country": "Germany",
+      "industry": "water transport",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1039334",
+      "wikidata_company": "http://www.wikidata.org/entity/Q565050",
+      "person_website": "",
+      "company_website": "http://www.hamburgsud.com",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Carl+Laeisz+Hamburg+S%C3%BCd",
+      "sources": "wikidata",
+      "cluster_id": "C0010",
+      "cluster_reason": "Shared group: industries=water transport, international trade; countries=Germany, France; companies=Reederei Norden-Frisia, Horn-Linie",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "http://www.hamburgsud.com/support/get-started",
+      "best_contact_type": "support"
+    },
+    {
+      "person_name": "Carl Merck",
+      "role": "Founder",
+      "company": "Merck KGaA",
+      "company_country": "Germany",
+      "industry": "chemical industry",
+      "wikidata_person": "http://www.wikidata.org/entity/Q1039749",
+      "wikidata_company": "http://www.wikidata.org/entity/Q156959",
+      "person_website": "",
+      "company_website": "https://www.merckgroup.com/",
+      "linkedin_profile": "",
+      "company_linkedin": "https://www.linkedin.com/company/healthcarebusinessofmerck",
+      "info_link": "https://www.google.com/search?q=Carl+Merck+Merck+KGaA",
+      "sources": "wikidata",
+      "cluster_id": "C0003",
+      "cluster_reason": "Shared group: industries=chemical industry, mining; countries=Germany, France; companies=Rosenthal, Kraul & Wilkening u. Stelling GmbH",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    },
+    {
+      "person_name": "Rudolph Karstadt",
+      "role": "Founder",
+      "company": "Karstadt",
+      "company_country": "Germany",
+      "industry": "retail",
+      "wikidata_person": "http://www.wikidata.org/entity/Q103982",
+      "wikidata_company": "http://www.wikidata.org/entity/Q182910",
+      "person_website": "",
+      "company_website": "https://www.karstadt.de/",
+      "linkedin_profile": "",
+      "company_linkedin": "",
+      "info_link": "https://www.google.com/search?q=Rudolph+Karstadt+Karstadt",
+      "sources": "wikidata",
+      "cluster_id": "C0004",
+      "cluster_reason": "Shared group: industries=retail; countries=Germany, France; companies=ATU, Fielmann",
+      "cluster_label": "",
+      "best_contact_email": "",
+      "best_contact_url": "",
+      "best_contact_type": ""
+    }
+  ]
+}
